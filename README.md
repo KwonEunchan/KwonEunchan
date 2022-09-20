@@ -1,8 +1,8 @@
-## Hello 😄
+# Hello 😄
 I am a computer engineering student at Chungbuk National University.  
 My goal is to become a great web developer who can perform any job.
 
-## Skills
+# Skills
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
@@ -25,8 +25,14 @@ My goal is to become a great web developer who can perform any job.
   <img src="https://img.shields.io/badge/Spring-6DB33F?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 </div>
 
+# Algorithm
+I'll try hard..🌱
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klg3377)](https://github.com/klg3377/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klg3377)](https://solved.ac/klg3377/)
+
+
+# My Git
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonEunchan)](https://github.com/KwonEunchan/github-readme-stats)
 
 
 
